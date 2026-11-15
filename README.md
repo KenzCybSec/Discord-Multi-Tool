@@ -6,6 +6,6 @@
 
 <br/>
 
-![Kenz](forgithub/kenzos-desktop.png)
+![Kenz](kenzos-desktop.png)
 
 </div>
